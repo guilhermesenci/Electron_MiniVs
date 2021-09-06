@@ -1,0 +1,22 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "npm install && npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "instal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermesenci/Electron_MiniVs.git"
+  },
+  "author": "Guilherme Senci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermesenci/Electron_MiniVs/issues"
+  },
+  "homepage": "https://github.com/guilhermesenci/Electron_MiniVs#readme",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}
